@@ -1,8 +1,7 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * main - Entry point
- * Description: Print base 16 numbers
+ * Description: main - prints all the numbers of base 16 in lowercase
  * Return: Always 0 (success)
  */
 
