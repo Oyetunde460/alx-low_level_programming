@@ -13,7 +13,7 @@ while (str[i] != '\0')
 	{
 	char c = str[i];
 
-	int _putchar(c);
+	_putchar(c);
 	i++;
 	}
 return (0);
